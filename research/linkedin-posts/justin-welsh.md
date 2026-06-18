@@ -11,7 +11,7 @@ Profile: https://www.linkedin.com/in/justinwelsh/
 
 ## Post 1
 
-Post Link:
+URL:
 https://www.linkedin.com/posts/justinwelsh_i-can-trace-my-success-back-to-one-specific-activity-7472978450908258304-uoFL
 
 ### Summary
@@ -29,7 +29,7 @@ Long-term success is built through capability development rather than shortcuts.
 
 ## Post 2
 
-Post Link:
+URL:
 https://www.linkedin.com/posts/justinwelsh_i-left-a-550000-job-at-38-with-no-plan-activity-7472616054482194433-sFhu
 
 ### Summary
@@ -47,7 +47,7 @@ Long-term business success comes from compounding the right actions.
 
 ## Post 3
 
-Post Link:
+URL:
 https://www.linkedin.com/posts/justinwelsh_everyone-says-you-can-only-have-two-of-these-activity-7472253671494565889-3YMd
 
 ### Summary
