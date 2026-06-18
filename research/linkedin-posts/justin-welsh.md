@@ -7,7 +7,7 @@ Platform: LinkedIn
 
 Profile: https://www.linkedin.com/in/justinwelsh/
 
-⸻
+
 
 ## Post 1
 
@@ -25,7 +25,7 @@ Valuable skills compound over time when consistently practiced.
 Systems and accumulated knowledge can eventually replace brute-force effort.
 Long-term success is built through capability development rather than shortcuts.
 
-⸻
+
 
 ## Post 2
 
@@ -43,7 +43,7 @@ It is possible to start over later in life and still succeed.
 Consistent execution matters more than speed.
 Long-term business success comes from compounding the right actions.
 
-⸻
+
 
 ## Post 3
 
@@ -61,7 +61,7 @@ Entrepreneurship can create meaningful social and economic value.
 Sustainable businesses focus on helping customers first.
 Long-term rewards follow when value creation is prioritized.
 
-⸻
+
 
 ## Overall Findings
 
@@ -73,7 +73,7 @@ Content is highly structured and easy to skim.
 Posts focus on long-term thinking and compounding outcomes.
 Each post includes a clear call-to-action tied to a relevant resource or offer.
 
-⸻
+
 
 ## Relevance to B2B SaaS LinkedIn Strategy
 
