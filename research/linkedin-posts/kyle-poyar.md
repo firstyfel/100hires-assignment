@@ -1,6 +1,6 @@
 # Kyle Poyar
 
-Expert Information
+## Expert Information
 
 Platform: LinkedIn
 
