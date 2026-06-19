@@ -1,6 +1,6 @@
 # Gaetano DiNardi
 
-Expert Information
+## Expert Information
 
 Platform: LinkedIn
 
